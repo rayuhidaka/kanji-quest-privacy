@@ -1,10 +1,10 @@
-# Privacy policy – Brush Quest: Kanji RPG
+# Privacy policy – Kanji Quest RPG
 
 The public privacy policy of the Android game (game repo: KanjiRPG_Godot). `index.html` is one bilingual page (English + Japanese) meant for GitHub Pages.
 
 ## Before publishing
-1. Replace `[DEVELOPER NAME]` and `[CONTACT EMAIL]` in `index.html` (4 places each, English and Japanese).
-2. If the store name changes from "Brush Quest: Kanji RPG" / 「ふでクエスト 漢字RPG」, change it in the `<title>`, the first lines and the Japanese 運営者 section.
+1. Developer: Ray Hidaka (Naomi.Jpn), contact nomi.ai.jpn@gmail.com (filled in 2026-10-30).
+2. If the store name changes from "Kanji Quest RPG" / 「漢字クエストRPG」, change it in the `<title>`, the first lines and the Japanese 運営者 section.
 
 ## Publish with GitHub Pages
 1. Create a public repo, e.g. `kanji-quest-privacy`, and push this folder.
