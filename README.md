@@ -3,7 +3,7 @@
 The public privacy policy of the Android game (game repo: KanjiRPG_Godot). `index.html` is one bilingual page (English + Japanese) meant for GitHub Pages.
 
 ## Before publishing
-1. Developer: Ray Hidaka (Naomi.Jpn), contact nomi.ai.jpn@gmail.com (filled in 2026-10-30).
+1. Developer: Ray Uwe Hidaka (Naomi.Jpn), contact nomi.ai.jpn@gmail.com (filled in 2026-10-30).
 2. If the store name changes from "Kanji Quest RPG" / 「漢字クエストRPG」, change it in the `<title>`, the first lines and the Japanese 運営者 section.
 
 ## Publish with GitHub Pages
